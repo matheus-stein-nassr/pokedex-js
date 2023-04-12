@@ -1,4 +1,4 @@
 # Pokedex usando Javascript
 
 
-![Screenshot](pokedex.png)
+![Pokedex](../img/pokedex.png)
